@@ -6,7 +6,7 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 ## My Note
-- [My Note](comp1238.me)
+- [My Note](comp1238.md)
 
 ## My Semester 1 Schedule
 * Monday
